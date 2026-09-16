@@ -2,7 +2,7 @@
 
 ## Aim: 
 
-To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
+To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
 
 ## Components required: 
 
@@ -119,9 +119,8 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
-
-
-
+<img width="1038" height="933" alt="image" src="https://github.com/user-attachments/assets/7ef8b1cf-44c7-47f4-a746-d097e2340b04" />
+<img width="1757" height="889" alt="image" src="https://github.com/user-attachments/assets/c8660d1a-d3c3-41b2-bce2-5b9e9981fdc9" />
 
 ## Result: 
 The Dragino LPS8 Indoor LoRaWAN Gateway was successfully configured and connected.
